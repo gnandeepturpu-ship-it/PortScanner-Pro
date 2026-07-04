@@ -1,0 +1,11 @@
+{
+    "target": "scanme.nmap.org",
+    "total_open_ports": 1,
+    "scan_results": [
+        {
+            "port": 22,
+            "service": "SSH",
+            "banner": "SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+Port,Service,Banner
+22,SSH,No Banner
+80,HTTP,HTTP/1.1 301 Moved Permanently  Content-Length: 0  Location: https:///  connection: close
+443,HTTPS,No Banner

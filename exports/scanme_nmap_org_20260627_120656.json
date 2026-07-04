@@ -1,0 +1,16 @@
+{
+    "target": "scanme.nmap.org",
+    "total_open_ports": 2,
+    "scan_results": [
+        {
+            "port": 22,
+            "service": "SSH",
+            "banner": "SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13"
+        },
+        {
+            "port": 80,
+            "service": "HTTP",
+            "banner": "HTTP/1.1 200 OK  Date: Sat, 27 Jun 2026 06:36:52 GMT  Server: Apache/2.4.7 (Ubuntu)  Accept-Ranges: bytes  Vary: Accept-Encoding  Connection: close  Content-Type: text/html"
+        }
+    ]
+}

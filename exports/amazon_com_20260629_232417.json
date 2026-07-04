@@ -1,0 +1,16 @@
+{
+    "target": "amazon.com",
+    "total_open_ports": 2,
+    "scan_results": [
+        {
+            "port": 80,
+            "service": "HTTP",
+            "banner": "HTTP/1.1 301 Moved Permanently  Server: Server  Date: Mon, 29 Jun 2026 17:32:21 GMT  Content-Type: text/html  Content-Length: 163  Connection: close  Location: https:///"
+        },
+        {
+            "port": 443,
+            "service": "HTTPS",
+            "banner": "HTTP/1.1 400 Bad Request  Server: Server  Date: Mon, 29 Jun 2026 17:32:28 GMT  Content-Type: text/html  Connection: close"
+        }
+    ]
+}

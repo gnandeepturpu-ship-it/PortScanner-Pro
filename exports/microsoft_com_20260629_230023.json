@@ -1,0 +1,16 @@
+{
+    "target": "microsoft.com",
+    "total_open_ports": 2,
+    "scan_results": [
+        {
+            "port": 80,
+            "service": "HTTP",
+            "banner": "HTTP/1.1 404 Not Found  Date: Mon, 29 Jun 2026 17:27:03 GMT  Content-Type: text/html  Content-Length: 266389  Connection: close  Vary: Accept-Encoding  Cache-Control: no-store  x-azure-ref: 20260629T172703Z-16c4977f46c2q8vqhC1MAA3scn0000000dd00000000008z9  X-Cache: CONFIG_NOCACHE"
+        },
+        {
+            "port": 443,
+            "service": "HTTPS",
+            "banner": "HTTP/1.1 400 Bad Request  Date: Mon, 29 Jun 2026 17:27:10 GMT  Content-Type: text/html  Content-Length: 1931  Connection: close  Cache-Control: no-store  X-Cache: CONFIG_NOCACHE"
+        }
+    ]
+}
