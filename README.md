@@ -250,3 +250,10 @@ Network Security Enthusiast
 # ⭐ If you like this project
 
 Please consider giving it a ⭐ on GitHub.
+
+## Usage
+
+```bash
+python3 app.py
+```
+
